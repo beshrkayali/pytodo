@@ -1,0 +1,8 @@
+TODO for pytodo
+==================================
+ - implement a way to deal with directories in scripts_list. - [script: pytodo.py, line: 73]
+ - add a command to render TODO as a webpage - [script: pytodo.py, line: 177]
+
+-----------------------------
+genereated with pytodo
+
