@@ -2,7 +2,7 @@ How pytodo works?
 =================
 
 pytodo searchs for comment lines that start with "# TODO" in your selected scripts. These lines will be added to the TODO file with information on where they exist.
-pytodo uses a settings file called pytodo_settings.py so it can be easier to regenerate TODO file as the project progresses.
+pytodo uses a settings file (pytodo_settings.py) so it can be easier to regenerate the TODO file.
 
 	How it works?
 	================
